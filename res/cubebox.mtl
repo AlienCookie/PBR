@@ -1,0 +1,23 @@
+newmtl cubetop
+illum 4
+map_Kd res\cubemap\top.png
+
+newmtl cubebottom
+illum 4
+map_Kd res\cubemap\bottom.png
+
+newmtl cubeleft
+illum 4
+map_Kd res\cubemap\left.png
+
+newmtl cuberight
+illum 4
+map_Kd res\cubemap\right.png
+
+newmtl cubefront
+illum 4
+map_Kd res\cubemap\front.png
+
+newmtl cubeback
+illum 4
+map_Kd res\cubemap\back.png

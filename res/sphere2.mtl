@@ -1,0 +1,7 @@
+newmtl initialShadingGroup
+illum 4
+map_Kd res/paint-peeling-albedo.png
+map_Pm res/paint-peeling-metalness.png
+map_Pr res/paint-peeling-roughness.png
+disp res/paint-peeling-ao.png
+norm res/paint-peeling-normal.png

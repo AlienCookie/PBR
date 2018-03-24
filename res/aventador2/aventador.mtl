@@ -1,0 +1,227 @@
+newmtl aventador:BREMSE1
+illum 4
+Kd 0.44 0.44 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:BREMSE3
+illum 4
+Kd 0.26 0.26 0.26
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:Body
+illum 4
+Kd 0.32 0.02 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl aventador:FELGE1
+illum 4
+Kd 0.21 0.21 0.21
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.06
+Ns 64.00
+newmtl aventador:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:Glass
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.20 0.20 0.20
+Ni 1.00
+Ks 0.75 0.75 0.75
+Ns 2048.00
+newmtl aventador:LICHTER1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:LICHTER2
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.60 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:LICHTER3
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:LICHTER6
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:LICHTER9
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.46 0.46 0.46
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:Lambo_045black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 256.00
+newmtl aventador:Lambo_045yellow
+illum 4
+Kd 0.30 0.19 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 256.00
+newmtl aventador:MOTOR1
+illum 4
+Kd 0.22 0.22 0.22
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:Mirror
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 2048.00
+newmtl aventador:REIFEN1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 11.31
+newmtl aventador:TEILE1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.03 0.03
+Ns 2048.00
+newmtl aventador:TEILE2
+illum 4
+Kd 0.61 0.61 0.61
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:TEILE5
+illum 4
+Kd 0.65 0.65 0.65
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:TEILE7
+illum 4
+Kd 0.17 0.17 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:Translucent_Glass_Gray
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.47 0.47 0.47
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:UNTERBODEN
+illum 4
+Kd 0.17 0.17 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:_Black_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 256.00
+newmtl aventador:interior
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd res/aventador2/interior_lod0.png
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 256.00
+newmtl aventador:lines
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 256.00
+newmtl aventador:logo
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd res/aventador2/interior_lod0.png
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 256.00
+newmtl aventador:signs
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd res/aventador2/interior_lod0.png
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 256.00
+newmtl aventador:speedometer
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 256.00

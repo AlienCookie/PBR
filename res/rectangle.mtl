@@ -1,0 +1,7 @@
+newmtl rectanglerefl
+illum 4
+map_Kd res/rustediron2_basecolor.png
+map_Pm res/rustediron2_metallic.png
+map_Pr res/rustediron2_roughness.png
+disp res/greasy-metal-pan1-ao.png
+norm res/rustediron2_normal.png

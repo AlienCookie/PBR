@@ -1,0 +1,7 @@
+newmtl initialShadingGroup
+illum 4
+map_Kd res/Copper-scuffed_basecolor-boosted.png
+map_Pm res/Copper-scuffed_metallic.png
+map_Pr res/Copper-scuffed_roughness3.png
+disp res/greasy-metal-pan1-ao.png
+norm res/Copper-scuffed_normal.png

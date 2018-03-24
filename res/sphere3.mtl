@@ -1,0 +1,7 @@
+newmtl initialShadingGroup
+illum 4
+map_Kd res/blocksrough_basecolor.png
+map_Pm res/blocksrough_metallic.png
+map_Pr res/blocksrough_roughness.png
+disp res/blocksrough_ambientocclusion.png
+norm res/blocksrough_normal.png
